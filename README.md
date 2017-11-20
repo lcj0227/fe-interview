@@ -4,6 +4,7 @@
 
 * [javascript](https://github.com/lcj0227/fe-interview/docs/javascript.md)
 * [html(5)](https://github.com/lcj0227/fe-interview/docs/html5.md) 
+* [es6](https://github.com/lcj0227/fe-interview/docs/es6.md) 
 * [css](https://github.com/lcj0227/fe-interview/docs/css.md)
 * [http](https://github.com/lcj0227/fe-interview/docs/http.md) 
 * [react](https://github.com/lcj0227/fe-interview/docs/react.md) 

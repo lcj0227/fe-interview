@@ -1,16 +1,10 @@
 * 深拷贝
-* react
-* webpack配置
-* react技术栈，webpack，react-router，redux
-* redux基本概念，store改变如何改变组件
-* redux中间件机制
-* react生命周期
-* immutable如何优化性能
-* redux
+
+
 * 函数柯里化实现
 * 移动端适配
 * 组件封装、对组件的看法、如何抽象一个组件
-* react的优势
+
 * 观察者模式
 * 父子组件通信
 * 闭包
@@ -20,16 +14,14 @@
 * instanceof的缺点
 * 函数节流和去抖的实现和区别
 * 事件代理的原理基本
-* ES6 let, const, promise, 解构，async, await
-* var和let的区别，var作用域提升，let块级作用域
-* 解构
-* promise
+
+
 * 事件委托
 * 跨域
 * new一个实例内部发生了什么
 * 原型、原型链、继承
-* http状态码，缓存怎么做
-* 性能优化方面
+
+
 * 设计模式的了解、会用到哪些
 * 柯里化，有什么应用
 * 本地存储cookie和storage区别
