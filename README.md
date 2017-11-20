@@ -2,7 +2,7 @@
 
 ## 目录
 
-* [javascript](https://github.com/lcj0227/fe-interview/docs/javascript.md)
+* [javascript](./docs/javascript.md)
 * [html(5)](https://github.com/lcj0227/fe-interview/docs/html5.md) 
 * [es6](https://github.com/lcj0227/fe-interview/docs/es6.md) 
 * [css](https://github.com/lcj0227/fe-interview/docs/css.md)
