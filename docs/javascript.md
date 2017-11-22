@@ -117,7 +117,7 @@ function getType(obj){
  * 输出：随机字符，如"6bij0v"
  */
 
-function idGenerator(len = 6) {
+function idGenerator(len = 6) {}
 ```
 
 
@@ -130,7 +130,7 @@ function idGenerator(len = 6) {
     * 输出：[1, 5, 3, 9, 2, 7]
     */
    
-   function mergeArray(arr1,arr2) {
+   function mergeArray(arr1,arr2) {}
 ```
 
 ```
@@ -148,6 +148,14 @@ function render(tpl,data){
 ```
    
    
-   
-   
+  ### 可视化相关的问题
+  比如在没写过图表的前提下，怎么抽象数据与图形的映射，怎么去组合不同的图表部件。
+  
+  有一块区域要展示一组数据，但数据需要请求 3 个接口才能计算得到，
+  请问前端是怎么做的，如何优化，前端什么情况下可以放弃合并接口的要求。
+  这个地方至少会考察到异步，本地缓存，延展下会问下并发，竞态，协程等。
+  答得好不好完全在于你的知识面的深度和广度，能否一直让我延展下去
+  
+ 
+ 
    
