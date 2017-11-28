@@ -53,6 +53,7 @@ function getType(obj){
 
 
 ### 2、函数柯里化实现
+
 ### 3、函数节流与去抖
 
 ### 4、```instanceof```与```typeof```，以及优缺点
@@ -69,7 +70,7 @@ function getType(obj){
    typeof Symbol()  // 'symbol'
 ```
 * ```typeof```不能区分出数组，null和普通对象，那么instanceof解决了这个问题
-```
+```angular2html
    //typeof
    typeof [1, 2, 3]  // return 'object'
    typeof null   // return 'object'
@@ -135,7 +136,8 @@ function getType(obj){
 * 柯里化，有什么应用
 * 本地存储cookie和storage区别
 * this的指向
-* js函数节流和去抖动
+### js函数节流和去抖动
+
 
  ```
 /**------- 编码题目一 --------- **/
@@ -194,6 +196,6 @@ function render(tpl,data){
   后面社区为了解决这个问题陆续提出了AMD规范和CMD规范，
   这里不同于Node.js的 CommonJS的原因在于服务端所有的模块都是存在于硬盘中的，
   加载和读取几乎是不需要时间的，而浏览器端因为加载速度取决于网速，
-   因此需要采用异步加载，AMD规范中使用define来定义一个模块，
-   使用require方法来加载一个模块，现在ES6也推出了标准的模块 加载方案，
-   通过exports和require来导出和导入模块。
+  因此需要采用异步加载，AMD规范中使用define来定义一个模块，
+  使用require方法来加载一个模块，现在ES6也推出了标准的模块 加载方案，
+  通过exports和require来导出和导入模块。
