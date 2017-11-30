@@ -3,7 +3,7 @@
 ## 目录
 
 * [javascript](./docs/javascript.md)
-* [html(5)](./docs/html5.md) 
+* [html](./docs/html5.md) 
 * [es6](./docs/es6.md) 
 * [css](./docs/css.md)
 * [http](./docs/http.md) 

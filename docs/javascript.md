@@ -290,3 +290,4 @@ function render(tpl,data){
 * typeof、instanceof 、 Object.prototype.toString()
 
 
+
